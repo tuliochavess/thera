@@ -1,0 +1,24 @@
+.Logincontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.modal {
+  width: 464px;
+  background: #f5f5f6;
+  border-radius: 12px;
+  margin-top: 120px;
+  padding: 24px;
+}
+
+.login {
+  margin-top: 100px;
+}
+
+.password {
+  margin-top: 24px;
+}
+
+.button {
+  margin: 64px 0 12px 0;
+}

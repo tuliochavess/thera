@@ -1,0 +1,26 @@
+.TextContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 20px;
+  color: #121214;
+  margin-bottom: 8px;
+}
+
+.input {
+  border: 1px solid #808080;
+  border-radius: 4px;
+  height: 32px;
+  width: 100%;
+  padding-left: 8px;
+}
+
+.error {
+  margin-top: 4px;
+  font-size: 14px;
+  color: red;
+}
